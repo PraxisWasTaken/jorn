@@ -5,7 +5,7 @@ simpleDate=$(date +"%Y-%m-%d") #example output: 2025-01-24
 
 complexDate=$(date +"%B %d, %Y") #example output: January 24, 2025
 
-pathToDoc="/home/father/Documents/jor/"
+pathToDoc="/path/to/desired/directory/"
 
 echo -e "Date: ${complexDate}\n\
 Tags:\n\

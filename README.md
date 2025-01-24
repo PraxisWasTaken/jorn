@@ -1,0 +1,1 @@
+change "pathToDoc" before executing.
